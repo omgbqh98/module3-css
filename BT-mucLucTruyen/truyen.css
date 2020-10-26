@@ -1,0 +1,36 @@
+h1{
+    color: red;
+    border: solid beige;
+    background-color: beige;
+    border-radius: 10px;
+}
+.menu{
+    cursor: pointer;
+    text-align:center;
+    font-weight: bold;
+    line-height: 4.7;
+    border:solid 1px;
+    padding: 1px;
+    list-style-type: none;
+    background-color: #4CAF50;
+    border-radius: 10px;
+    margin: 5px;
+    width: 200px;
+    height: 50px;
+    vertical-align: center;
+}
+.menu:hover {
+    background-color: aqua;
+}
+#1{
+    width: 200px;
+    float: left
+}
+#2{
+    text-align:center;
+    position: relative;
+    overflow: auto;
+}
+.menuList{
+
+}

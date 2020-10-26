@@ -1,0 +1,25 @@
+h1{
+    text-transform: capitalize;
+    line-height: 0.2;
+}
+p{
+    font-family: times,serif,"Times New Roman";
+    text-indent: 50px;
+}
+div{
+    font-weight: 600;
+    background-color: #4CAF50 ;
+    border: solid 1px;
+    list-style-type: none;
+    cursor: pointer;
+}
+div:hover {
+    background-color: red;
+}
+div first-child {
+    background-color:#4CAF50;
+    color: white;
+    font-weight:bold;}
+span.color{
+    color: #4CAF50;
+}

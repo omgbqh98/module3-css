@@ -1,0 +1,34 @@
+table,tr,th,td{
+    border:1px solid black;
+}
+table{
+ border-collapse: collapse;
+    width:50%;
+}
+th{
+    vertical-align: bottom;
+    height: 20px;
+    background-color: #4CAF50;
+    color: white;
+}
+th,td{
+    padding: 30px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+div{
+    border :1px solid blue;
+    width:100px;
+    height: 100px;
+    text-align : justify;
+}
+body{
+    background: #ffffff url("http://agilearn.vn/draftfile.php/5/user/draft/600399732/img_tree.png") no-repeat right top;
+    margin-right: 200px;
+    /*background-image: url("anh.jpeg") ;*/
+    /*margin-right: 200px;*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: right top;*/
+    /*margin-right: 200px;*/
+    /*background-attachment: fixed;*/
+
+}
